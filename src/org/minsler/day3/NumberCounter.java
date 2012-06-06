@@ -25,10 +25,10 @@ public class NumberCounter {
 
 	public NumberCounter(long number){
 		this.number = number;
-		findMostFrequentellyNumber();
+		findMostFrequentlyNumber();
 	}
 	
-	private void findMostFrequentellyNumber(){
+	private void findMostFrequentlyNumber(){
 		long b;
 		long mod;
 		int currentCount;
