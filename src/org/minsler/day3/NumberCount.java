@@ -1,10 +1,21 @@
 package org.minsler.day3;
+/**
+ * 
+ * @author minsler
+ * 
+ */
 
 public class NumberCount {
-
+	
+	/**
+	 * 
+	 * @param args array of String passed to the Java program upon invocation
+	 */
+	
 	public static void main(String[] args) {
 		
 		long a = 11000;
+		
 		int maxCount = 1;
 		int maxNumber = 0;
 		int currentCount = 0;
