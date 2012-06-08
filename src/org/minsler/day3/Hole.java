@@ -12,12 +12,12 @@ public class Hole {
 		
 		gip = Math.sqrt(a*a + b*b);
 		
-		System.out.println("Гипотенуза прямоугольника равна "+ gip);
+		System.out.println("Р“РёРїРѕС‚РµРЅСѓР·Р° СЂР°РІРЅР° "+ gip);
 		
 		if (r*2 > gip) {
-			System.out.println("Прямоугольник пройдет");
+			System.out.println("РїСЂСЏРјРѕСѓРіРѕР»СЊРЅРёРє РїСЂРѕР№РґРµС‚");
 		} else {
-			System.out.println("Прямоугольник не пройдет");
+			System.out.println("РїСЂСЏРјРѕСѓРіРѕР»СЊРЅРёРє РЅРµ РїСЂРѕР№РґРµС‚");
 		}
 		
 	}

@@ -4,9 +4,9 @@ public class RubCount {
 
 	public static void main(String[] args) {
 
-		String rubMany = "πσαλει";
-		String rubTwo = "πσαλÿ";
-		String rubOne = "πσαλό";
+		String rubMany = "Ρ€ΡƒΠ±Π»ΠµΠΉ";
+		String rubTwo = "Ρ€ΡƒΠ±Π»Ρ";
+		String rubOne = "Ρ€ΡƒΠ±Π»ΡΠΎ";
 
 		for (int rub = 99; rub < 124; rub++) {
 

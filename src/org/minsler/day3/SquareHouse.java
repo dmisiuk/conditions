@@ -31,9 +31,9 @@ public class SquareHouse {
 		}
 
 		if (entery) {
-			System.out.println("Поместятся");
+			System.out.println("РїРѕРјРµСЃС‚РёС‚СЃСЏ");
 		} else {
-			System.out.println("Не поместятся");
+			System.out.println("РЅРµ РїРѕРјРµСЃС‚РёС‚СЃСЏ");
 		}
 	}
 
