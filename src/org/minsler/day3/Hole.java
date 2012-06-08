@@ -12,7 +12,7 @@ public class Hole {
 		
 		gip = Math.sqrt(a*a + b*b);
 		
-		System.out.println("Гипотенуза равна "+ gip);
+		System.out.println("Гипотенуза равна 121"+ gip);
 		
 		if (r*2 > gip) {
 			System.out.println("прямоугольник пройдет");

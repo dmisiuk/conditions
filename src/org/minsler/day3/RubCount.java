@@ -6,7 +6,7 @@ public class RubCount {
 
 		String rubMany = "рублей";
 		String rubTwo = "рубля";
-		String rubOne = "рубльо";
+		String rubOne = "рубль";
 
 		for (int rub = 99; rub < 124; rub++) {
 
